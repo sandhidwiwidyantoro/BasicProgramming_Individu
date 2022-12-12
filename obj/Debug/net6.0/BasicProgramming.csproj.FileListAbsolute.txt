@@ -1,0 +1,15 @@
+D:\00.METRODATA\BULAN PERTAMA\6.HARI KEENAM\BasicProgramming\BasicProgramming\bin\Debug\net6.0\BasicProgramming.exe
+D:\00.METRODATA\BULAN PERTAMA\6.HARI KEENAM\BasicProgramming\BasicProgramming\bin\Debug\net6.0\BasicProgramming.deps.json
+D:\00.METRODATA\BULAN PERTAMA\6.HARI KEENAM\BasicProgramming\BasicProgramming\bin\Debug\net6.0\BasicProgramming.runtimeconfig.json
+D:\00.METRODATA\BULAN PERTAMA\6.HARI KEENAM\BasicProgramming\BasicProgramming\bin\Debug\net6.0\BasicProgramming.dll
+D:\00.METRODATA\BULAN PERTAMA\6.HARI KEENAM\BasicProgramming\BasicProgramming\bin\Debug\net6.0\BasicProgramming.pdb
+D:\00.METRODATA\BULAN PERTAMA\6.HARI KEENAM\BasicProgramming\BasicProgramming\obj\Debug\net6.0\BasicProgramming.csproj.AssemblyReference.cache
+D:\00.METRODATA\BULAN PERTAMA\6.HARI KEENAM\BasicProgramming\BasicProgramming\obj\Debug\net6.0\BasicProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\00.METRODATA\BULAN PERTAMA\6.HARI KEENAM\BasicProgramming\BasicProgramming\obj\Debug\net6.0\BasicProgramming.AssemblyInfoInputs.cache
+D:\00.METRODATA\BULAN PERTAMA\6.HARI KEENAM\BasicProgramming\BasicProgramming\obj\Debug\net6.0\BasicProgramming.AssemblyInfo.cs
+D:\00.METRODATA\BULAN PERTAMA\6.HARI KEENAM\BasicProgramming\BasicProgramming\obj\Debug\net6.0\BasicProgramming.csproj.CoreCompileInputs.cache
+D:\00.METRODATA\BULAN PERTAMA\6.HARI KEENAM\BasicProgramming\BasicProgramming\obj\Debug\net6.0\BasicProgramming.dll
+D:\00.METRODATA\BULAN PERTAMA\6.HARI KEENAM\BasicProgramming\BasicProgramming\obj\Debug\net6.0\refint\BasicProgramming.dll
+D:\00.METRODATA\BULAN PERTAMA\6.HARI KEENAM\BasicProgramming\BasicProgramming\obj\Debug\net6.0\BasicProgramming.pdb
+D:\00.METRODATA\BULAN PERTAMA\6.HARI KEENAM\BasicProgramming\BasicProgramming\obj\Debug\net6.0\BasicProgramming.genruntimeconfig.cache
+D:\00.METRODATA\BULAN PERTAMA\6.HARI KEENAM\BasicProgramming\BasicProgramming\obj\Debug\net6.0\ref\BasicProgramming.dll
